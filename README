@@ -1,7 +1,7 @@
 OpenEmbedded BSP layer for hardkernel ODROID devices
 
 Status of support devices:
-The following will boot in 4.14 kernel and 2017.07 uboot
+The following will boot in 4.14 kernel and 2017.11 uboot
 ODROID-XU3: 
 ODROID-XU3-lite: 
 ODROID-XU4: untested but compat with XU3, network ??
