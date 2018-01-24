@@ -1,9 +1,9 @@
 FILESEXTRAPATHS_prepend := "${THISDIR}/${PN}-${PV}:"
 
 
-LINUX_VERSION ?= "4.14.12"
+LINUX_VERSION ?= "4.14.15"
 KBRANCH ?= "linux-4.14.y"
-SRCREV ?= "8d577afdee3540808302d9dc7a0a7be96c91178f"
+SRCREV ?= "a16134b082346b7e7c34f594a0763eafacdcea92"
 
 O_KERNEL_CONFIG_odroid-c2  = "odroid-c2"
 O_KERNEL_CONFIG_odroid-c1  = "odroid-c1"
