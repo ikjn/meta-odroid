@@ -15,7 +15,7 @@ KERNEL_IMAGETYPE ?= "zImage"
 
 PREFERRED_PROVIDER_virtual/bootloader ?= "u-boot"
 PREFERRED_PROVIDER_u-boot ?= "u-boot"
-PREFERRED_VERSION_u-boot ?= "2017.11"
+PREFERRED_VERSION_u-boot ?= "2018.01"
 
 UBOOT_ENV  ?= "boot"
 UBOOT_BINARY ?= "u-boot-dtb.bin"
